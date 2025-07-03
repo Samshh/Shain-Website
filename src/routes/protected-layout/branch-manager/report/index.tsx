@@ -458,7 +458,7 @@ export default function BranchManagerReport() {
   };
 
   return (
-    <div className="container p-6 max-w-[1536px] mx-auto">
+    <div className="container p-6">
       <div className="flex flex-col gap-6">
         {/* Header */}
         <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
